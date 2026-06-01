@@ -7,6 +7,12 @@
 
 ---
 
+### About Me 
+
+Driven and resourceful individual with solid foundation in both front-end and back-end development, coupled with strong problem-solving skills. Proficient in HTML, CSS, JavaScript, and Python, with knack for collaboration and communication. Ready to leverage technical knowledge and creative thinking to contribute meaningfully in Full Stack Web Developer Intern role.
+
+---
+
 ### 🛠 Tech Stack
 
 **Frontend**

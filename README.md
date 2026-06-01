@@ -39,13 +39,13 @@ Driven and resourceful individual with solid foundation in both front-end and ba
 
 ### 🚀 Projects
 
-**[GymBuddy](https://github.com/Best0129/Client-side-Project)** — Next.js · Neon PostgreSQL · Prisma ORM  
+**[GymBuddy](https://github.com/B3zt/Client-side-Project)** — Next.js · Neon PostgreSQL · Prisma ORM  
 Fitness web app with workout plan management, community feed, and nutrition tracking. Designed in Figma first, deployed with serverless PostgreSQL via Neon.
 
-**[Lawyers Dashboard](https://github.com/Best0129/Lawyers)** — Next.js · Neon PostgreSQL · Prisma ORM  
+**[Lawyers Dashboard](https://github.com/B3zt/LawyersDashboard)** — Next.js · Neon PostgreSQL · Prisma ORM  
 Multi-user dashboard for managing lawyer profiles, case records, and document metadata — with full-text search across 5+ data fields.
 
-**[DevOnBucket](https://github.com/Best0129/DevOnBucket)** — Django · PostgreSQL  
+**[DevOnBucket](https://github.com/B3zt/DevOnBucket)** — Django · PostgreSQL  
 Developer community platform with threaded discussions, authentication, and post CRUD — built on Django's class-based views and MVC architecture.
 
 ---

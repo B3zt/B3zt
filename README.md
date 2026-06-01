@@ -88,8 +88,8 @@ I'm a graduated IT student at **KMITL, Bangkok** with hands-on experience taking
     </td>
     <td width="50%" valign="top">
       <!-- Placeholder for future project -->
-      <h3>🔜 Next Project</h3>
-      <p>Something new is in the works. Watch this space...</p>
+      <h3>🔜 Budget Management</h3>
+      <p>Work in progress ...</p>
     </td>
   </tr>
 </table>

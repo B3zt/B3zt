@@ -16,7 +16,7 @@
 
 > *"I build things for the web — from pixel-perfect UIs to well-structured backend APIs."*
 
-I'm a final-year IT student at **KMITL, Bangkok** with hands-on experience taking web projects from idea to production. I care about clean code, intuitive design, and backends that scale.
+I'm a graduated IT student at **KMITL, Bangkok** with hands-on experience taking web projects from idea to production. I care about clean code, intuitive design, and backends that scale.
 
 - 🔭 Currently building with **Next.js**, **Django** & **PostgreSQL**
 - 🌱 Exploring deeper system design & API architecture patterns

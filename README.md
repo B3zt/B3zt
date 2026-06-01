@@ -57,7 +57,7 @@ I'm a graduated IT student at **KMITL, Bangkok** with hands-on experience taking
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Neon-00E5CC?style=flat-square&logo=postgresql&logoColor=black"/>
       </p>
-      <a href="https://github.com/B3zt/Client-side-Project">
+      <a href="https://github.com/B3zt/GymBuddy">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
